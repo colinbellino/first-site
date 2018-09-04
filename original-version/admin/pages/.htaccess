@@ -1,0 +1,20 @@
+#PerlSetVar AuthFile BAHAMUT/admin/mdp/.htpasswd
+#AuthName "Acces Restreint"
+#AuthType Basic
+#
+#<Limit GET POST>
+#require user user1
+#</Limit>
+#
+#<Files admin.php>
+# 
+#PerlSetVar AuthFile BAHAMUT/admin/mdp/.htpasswd
+#AuthName "Acces Restreint"
+#AuthType Basic
+#
+#<Limit GET POST>
+#require user user1
+#</Limit>
+#
+# 
+#</Files>
