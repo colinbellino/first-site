@@ -12,7 +12,7 @@ I mainly uploaded it for backup purposes but hey, might as well host it for all 
 
 SHAME 🔔
 
-![SHAME](https://web.archive.org/web/20180409120859/https://i.giphy.com/media/m6tmCnGCNvTby/giphy.webp)
+![SHAME](https://i.imgur.com/hyI9ItE.gif)
 
 ## Deploy to github pages
 
